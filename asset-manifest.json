@@ -1,0 +1,391 @@
+{
+  "generator": "cell-architecture-studio asset pipeline",
+  "registryVersion": "0.1.0",
+  "license": {
+    "id": "CC-BY-4.0",
+    "name": "Creative Commons Attribution 4.0 International",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "redistribution": "allowed",
+    "modification": "allowed",
+    "commercialUse": "allowed",
+    "attributionRequired": true,
+    "attributionText": "Cell Architecture Studio contributors — schematic cell illustration, CC BY 4.0. Not to scale; not a scientific reconstruction."
+  },
+  "entries": [
+    {
+      "specimenId": "plant-cell",
+      "slug": "plant-cell",
+      "name": "Plant cell",
+      "domain": "plant",
+      "assetId": "asset-plant-cell",
+      "kind": "procedural",
+      "uri": "procedural://plant-cell",
+      "byteSize": 0,
+      "licenseId": "CC-BY-4.0",
+      "licenseName": "Creative Commons Attribution 4.0 International",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "attribution": "Cell Architecture Studio contributors — schematic cell illustration, CC BY 4.0. Not to scale; not a scientific reconstruction. Specimen: Plant cell (Elodea sp.).",
+      "previewPath": "/previews/plant-cell.svg",
+      "meshInstances": 39,
+      "structureCount": 7,
+      "mappedStructures": 7,
+      "bounds": {
+        "min": [
+          -1.15,
+          -0.775,
+          -0.675
+        ],
+        "max": [
+          1.15,
+          0.775,
+          0.675
+        ]
+      },
+      "size": [
+        2.3,
+        1.55,
+        1.35
+      ],
+      "canonicalDiameter": 2,
+      "estimatedTriangles": 10584,
+      "specHash": "1abe6ad68fd476d939f69680263ae48788325bf9b45715504c1c7e9751048f94",
+      "capabilities": {
+        "mesh": true,
+        "focus": true,
+        "cutaway": true,
+        "structureHighlight": "mesh-mapping",
+        "screenshot": true,
+        "glbExport": true
+      }
+    },
+    {
+      "specimenId": "white-blood-cell",
+      "slug": "white-blood-cell",
+      "name": "White blood cell",
+      "domain": "animal",
+      "assetId": "asset-white-blood-cell",
+      "kind": "procedural",
+      "uri": "procedural://white-blood-cell",
+      "byteSize": 0,
+      "licenseId": "CC-BY-4.0",
+      "licenseName": "Creative Commons Attribution 4.0 International",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "attribution": "Cell Architecture Studio contributors — schematic cell illustration, CC BY 4.0. Not to scale; not a scientific reconstruction. Specimen: White blood cell (Homo sapiens).",
+      "previewPath": "/previews/white-blood-cell.svg",
+      "meshInstances": 80,
+      "structureCount": 6,
+      "mappedStructures": 6,
+      "bounds": {
+        "min": [
+          -0.891,
+          -0.749,
+          -0.62
+        ],
+        "max": [
+          1.127,
+          0.896,
+          0.62
+        ]
+      },
+      "size": [
+        2.018,
+        1.645,
+        1.24
+      ],
+      "canonicalDiameter": 2,
+      "estimatedTriangles": 14656,
+      "specHash": "bec3a910fb92b217f087c630bb4d80d1311ad42ddd431bd8ee1ad98d1410243b",
+      "capabilities": {
+        "mesh": true,
+        "focus": true,
+        "cutaway": false,
+        "structureHighlight": "mesh-mapping",
+        "screenshot": true,
+        "glbExport": true
+      }
+    },
+    {
+      "specimenId": "neuron",
+      "slug": "neuron",
+      "name": "Neuron",
+      "domain": "animal",
+      "assetId": "asset-neuron",
+      "kind": "procedural",
+      "uri": "procedural://neuron",
+      "byteSize": 0,
+      "licenseId": "CC-BY-4.0",
+      "licenseName": "Creative Commons Attribution 4.0 International",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "attribution": "Cell Architecture Studio contributors — schematic cell illustration, CC BY 4.0. Not to scale; not a scientific reconstruction. Specimen: Neuron (Mammalian (schematic)).",
+      "previewPath": "/previews/neuron.svg",
+      "meshInstances": 27,
+      "structureCount": 7,
+      "mappedStructures": 7,
+      "bounds": {
+        "min": [
+          -1.268,
+          -0.619,
+          -0.492
+        ],
+        "max": [
+          1.305,
+          0.674,
+          0.461
+        ]
+      },
+      "size": [
+        2.573,
+        1.293,
+        0.953
+      ],
+      "canonicalDiameter": 2,
+      "estimatedTriangles": 6160,
+      "specHash": "c038c9cc7655c2c6316f8e178ada541b59fa896cd7d01fee53e230802df199bb",
+      "capabilities": {
+        "mesh": true,
+        "focus": true,
+        "cutaway": false,
+        "structureHighlight": "mesh-mapping",
+        "screenshot": true,
+        "glbExport": true
+      }
+    },
+    {
+      "specimenId": "epithelial-cell",
+      "slug": "epithelial-cell",
+      "name": "Epithelial cell",
+      "domain": "animal",
+      "assetId": "asset-epithelial-cell",
+      "kind": "procedural",
+      "uri": "procedural://epithelial-cell",
+      "byteSize": 0,
+      "licenseId": "CC-BY-4.0",
+      "licenseName": "Creative Commons Attribution 4.0 International",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "attribution": "Cell Architecture Studio contributors — schematic cell illustration, CC BY 4.0. Not to scale; not a scientific reconstruction. Specimen: Epithelial cell (Homo sapiens).",
+      "previewPath": "/previews/epithelial-cell.svg",
+      "meshInstances": 79,
+      "structureCount": 7,
+      "mappedStructures": 7,
+      "bounds": {
+        "min": [
+          -0.485,
+          -0.845,
+          -0.485
+        ],
+        "max": [
+          0.485,
+          1.07,
+          0.485
+        ]
+      },
+      "size": [
+        0.97,
+        1.915,
+        0.97
+      ],
+      "canonicalDiameter": 2,
+      "estimatedTriangles": 8824,
+      "specHash": "fe9b469b7b1dad762816db574efa8c2ed72de9d557a6c93b9faf0fb929dccebf",
+      "capabilities": {
+        "mesh": true,
+        "focus": true,
+        "cutaway": false,
+        "structureHighlight": "mesh-mapping",
+        "screenshot": true,
+        "glbExport": true
+      }
+    },
+    {
+      "specimenId": "bacteria",
+      "slug": "bacteria",
+      "name": "Bacterium",
+      "domain": "bacteria",
+      "assetId": "asset-bacteria",
+      "kind": "procedural",
+      "uri": "procedural://bacteria",
+      "byteSize": 0,
+      "licenseId": "CC-BY-4.0",
+      "licenseName": "Creative Commons Attribution 4.0 International",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "attribution": "Cell Architecture Studio contributors — schematic cell illustration, CC BY 4.0. Not to scale; not a scientific reconstruction. Specimen: Bacterium (Escherichia coli).",
+      "previewPath": "/previews/bacteria.svg",
+      "meshInstances": 123,
+      "structureCount": 7,
+      "mappedStructures": 7,
+      "bounds": {
+        "min": [
+          -1.99,
+          -0.838,
+          -0.541
+        ],
+        "max": [
+          1,
+          0.809,
+          0.535
+        ]
+      },
+      "size": [
+        2.99,
+        1.648,
+        1.076
+      ],
+      "canonicalDiameter": 2,
+      "estimatedTriangles": 24548,
+      "specHash": "79b11ddbbb6b36399e3ea6b6fe227957d5ca998435c40bd1665c0345feac6404",
+      "capabilities": {
+        "mesh": true,
+        "focus": true,
+        "cutaway": true,
+        "structureHighlight": "mesh-mapping",
+        "screenshot": true,
+        "glbExport": true
+      }
+    },
+    {
+      "specimenId": "animal-cell",
+      "slug": "animal-cell",
+      "name": "Animal cell",
+      "domain": "animal",
+      "assetId": "asset-animal-cell",
+      "kind": "procedural",
+      "uri": "procedural://animal-cell",
+      "byteSize": 0,
+      "licenseId": "CC-BY-4.0",
+      "licenseName": "Creative Commons Attribution 4.0 International",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "attribution": "Cell Architecture Studio contributors — schematic cell illustration, CC BY 4.0. Not to scale; not a scientific reconstruction. Specimen: Animal cell (Mammalia (unspecified lineage)).",
+      "previewPath": "/previews/animal-cell.svg",
+      "meshInstances": 67,
+      "structureCount": 7,
+      "mappedStructures": 7,
+      "bounds": {
+        "min": [
+          -1.021,
+          -0.85,
+          -0.8
+        ],
+        "max": [
+          0.95,
+          0.85,
+          0.8
+        ]
+      },
+      "size": [
+        1.971,
+        1.7,
+        1.6
+      ],
+      "canonicalDiameter": 2,
+      "estimatedTriangles": 12052,
+      "specHash": "266982e581872b395378088f16117359cd36d768640087c9e1ce9d84f4e9e316",
+      "capabilities": {
+        "mesh": true,
+        "focus": true,
+        "cutaway": true,
+        "structureHighlight": "mesh-mapping",
+        "screenshot": true,
+        "glbExport": true
+      }
+    },
+    {
+      "specimenId": "muscle-cell",
+      "slug": "muscle-cell",
+      "name": "Muscle cell",
+      "domain": "animal",
+      "assetId": "asset-muscle-cell",
+      "kind": "procedural",
+      "uri": "procedural://muscle-cell",
+      "byteSize": 0,
+      "licenseId": "CC-BY-4.0",
+      "licenseName": "Creative Commons Attribution 4.0 International",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "attribution": "Cell Architecture Studio contributors — schematic cell illustration, CC BY 4.0. Not to scale; not a scientific reconstruction. Specimen: Muscle cell (Homo sapiens).",
+      "previewPath": "/previews/muscle-cell.svg",
+      "meshInstances": 52,
+      "structureCount": 7,
+      "mappedStructures": 7,
+      "bounds": {
+        "min": [
+          -1.2,
+          -0.562,
+          -0.5
+        ],
+        "max": [
+          1.2,
+          0.545,
+          0.5
+        ]
+      },
+      "size": [
+        2.4,
+        1.107,
+        1
+      ],
+      "canonicalDiameter": 2,
+      "estimatedTriangles": 11424,
+      "specHash": "e833bd72b305564984d4eaf57ba118b439c436cc222d1dd79c6ada2033a4c9b4",
+      "capabilities": {
+        "mesh": true,
+        "focus": true,
+        "cutaway": true,
+        "structureHighlight": "mesh-mapping",
+        "screenshot": true,
+        "glbExport": true
+      }
+    }
+  ],
+  "previews": [
+    {
+      "specimenId": "plant-cell",
+      "path": "/previews/plant-cell.svg",
+      "bytes": 16233,
+      "specHash": "1abe6ad68fd476d939f69680263ae48788325bf9b45715504c1c7e9751048f94"
+    },
+    {
+      "specimenId": "white-blood-cell",
+      "path": "/previews/white-blood-cell.svg",
+      "bytes": 34568,
+      "specHash": "bec3a910fb92b217f087c630bb4d80d1311ad42ddd431bd8ee1ad98d1410243b"
+    },
+    {
+      "specimenId": "neuron",
+      "path": "/previews/neuron.svg",
+      "bytes": 11989,
+      "specHash": "c038c9cc7655c2c6316f8e178ada541b59fa896cd7d01fee53e230802df199bb"
+    },
+    {
+      "specimenId": "epithelial-cell",
+      "path": "/previews/epithelial-cell.svg",
+      "bytes": 32101,
+      "specHash": "fe9b469b7b1dad762816db574efa8c2ed72de9d557a6c93b9faf0fb929dccebf"
+    },
+    {
+      "specimenId": "bacteria",
+      "path": "/previews/bacteria.svg",
+      "bytes": 51905,
+      "specHash": "79b11ddbbb6b36399e3ea6b6fe227957d5ca998435c40bd1665c0345feac6404"
+    },
+    {
+      "specimenId": "animal-cell",
+      "path": "/previews/animal-cell.svg",
+      "bytes": 28240,
+      "specHash": "266982e581872b395378088f16117359cd36d768640087c9e1ce9d84f4e9e316"
+    },
+    {
+      "specimenId": "muscle-cell",
+      "path": "/previews/muscle-cell.svg",
+      "bytes": 22360,
+      "specHash": "e833bd72b305564984d4eaf57ba118b439c436cc222d1dd79c6ada2033a4c9b4"
+    }
+  ],
+  "totals": {
+    "specimens": 7,
+    "meshInstances": 467,
+    "estimatedTriangles": 88248,
+    "mappedStructures": 48,
+    "structures": 48,
+    "draftAssets": 0,
+    "draftSpecimens": 7
+  }
+}

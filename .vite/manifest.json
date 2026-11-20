@@ -1,0 +1,53 @@
+{
+  "../../node_modules/three/examples/jsm/exporters/GLTFExporter.js": {
+    "file": "assets/GLTFExporter-aYshl5bq.js",
+    "name": "GLTFExporter",
+    "src": "../../node_modules/three/examples/jsm/exporters/GLTFExporter.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_ViewerPane-CMVtTvXs.js",
+      "index.html"
+    ]
+  },
+  "../../node_modules/three/examples/jsm/libs/meshopt_decoder.module.js": {
+    "file": "assets/meshopt_decoder.module-DA_PxQo_.js",
+    "name": "meshopt_decoder.module",
+    "src": "../../node_modules/three/examples/jsm/libs/meshopt_decoder.module.js",
+    "isDynamicEntry": true
+  },
+  "../../node_modules/three/examples/jsm/loaders/GLTFLoader.js": {
+    "file": "assets/GLTFLoader-BJFcNJ9q.js",
+    "name": "GLTFLoader",
+    "src": "../../node_modules/three/examples/jsm/loaders/GLTFLoader.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_ViewerPane-CMVtTvXs.js",
+      "index.html"
+    ]
+  },
+  "_ViewerPane-CMVtTvXs.js": {
+    "file": "assets/ViewerPane-CMVtTvXs.js",
+    "name": "ViewerPane",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ],
+    "dynamicImports": [
+      "../../node_modules/three/examples/jsm/loaders/GLTFLoader.js",
+      "../../node_modules/three/examples/jsm/libs/meshopt_decoder.module.js",
+      "../../node_modules/three/examples/jsm/exporters/GLTFExporter.js"
+    ]
+  },
+  "index.html": {
+    "file": "assets/index-B59yKq-L.js",
+    "name": "index",
+    "src": "index.html",
+    "isEntry": true,
+    "dynamicImports": [
+      "_ViewerPane-CMVtTvXs.js"
+    ],
+    "css": [
+      "assets/index-DznJV1eK.css"
+    ]
+  }
+}
