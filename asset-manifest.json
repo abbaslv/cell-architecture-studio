@@ -471,6 +471,98 @@
         "screenshot": true,
         "glbExport": true
       }
+    },
+    {
+      "specimenId": "human-brain",
+      "slug": "human-brain",
+      "name": "Human brain",
+      "domain": "animal",
+      "assetId": "asset-human-brain",
+      "kind": "procedural",
+      "uri": "procedural://human-brain",
+      "byteSize": 0,
+      "licenseId": "CC-BY-4.0",
+      "licenseName": "Creative Commons Attribution 4.0 International",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "attribution": "Cell Architecture Studio contributors — schematic cell illustration, CC BY 4.0. Not to scale; not a scientific reconstruction. Specimen: Human brain (Homo sapiens).",
+      "previewPath": "/previews/human-brain.svg",
+      "meshInstances": 25,
+      "structureCount": 10,
+      "mappedStructures": 10,
+      "bounds": {
+        "min": [
+          -0.843,
+          -0.78,
+          -0.646
+        ],
+        "max": [
+          0.846,
+          0.587,
+          0.646
+        ]
+      },
+      "size": [
+        1.688,
+        1.367,
+        1.292
+      ],
+      "canonicalDiameter": 2,
+      "estimatedTriangles": 32000,
+      "specHash": "7b7f030c9c0cd1dd904edab4df94d6a42a4b7e73ea6118212561e92889415d94",
+      "capabilities": {
+        "mesh": true,
+        "focus": true,
+        "cutaway": true,
+        "structureHighlight": "mesh-mapping",
+        "screenshot": true,
+        "glbExport": true
+      }
+    },
+    {
+      "specimenId": "human-brain-cutout",
+      "slug": "human-brain-cutout",
+      "name": "Human brain (cutout)",
+      "domain": "animal",
+      "assetId": "asset-human-brain-cutout",
+      "kind": "procedural",
+      "uri": "procedural://human-brain-cutout",
+      "byteSize": 0,
+      "licenseId": "CC-BY-4.0",
+      "licenseName": "Creative Commons Attribution 4.0 International",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "attribution": "Cell Architecture Studio contributors — schematic cell illustration, CC BY 4.0. Not to scale; not a scientific reconstruction. Specimen: Human brain (cutout) (Homo sapiens).",
+      "previewPath": "/previews/human-brain-cutout.svg",
+      "meshInstances": 39,
+      "structureCount": 12,
+      "mappedStructures": 12,
+      "bounds": {
+        "min": [
+          -0.841,
+          -0.843,
+          -0.649
+        ],
+        "max": [
+          0.842,
+          0.587,
+          0.33
+        ]
+      },
+      "size": [
+        1.683,
+        1.431,
+        0.979
+      ],
+      "canonicalDiameter": 2,
+      "estimatedTriangles": 26430,
+      "specHash": "adcfdde45455d9a351603f0477859ec441ee5cab0c113cac4884af1ac6e265a6",
+      "capabilities": {
+        "mesh": true,
+        "focus": true,
+        "cutaway": true,
+        "structureHighlight": "mesh-mapping",
+        "screenshot": true,
+        "glbExport": true
+      }
     }
   ],
   "previews": [
@@ -533,15 +625,27 @@
       "path": "/previews/paramecium.svg",
       "bytes": 35511,
       "specHash": "6815b13df1dd21d25122b9b73041d43a3b0806f233d2049b06311cdb8b99dbcc"
+    },
+    {
+      "specimenId": "human-brain",
+      "path": "/previews/human-brain.svg",
+      "bytes": 11191,
+      "specHash": "7b7f030c9c0cd1dd904edab4df94d6a42a4b7e73ea6118212561e92889415d94"
+    },
+    {
+      "specimenId": "human-brain-cutout",
+      "path": "/previews/human-brain-cutout.svg",
+      "bytes": 16868,
+      "specHash": "adcfdde45455d9a351603f0477859ec441ee5cab0c113cac4884af1ac6e265a6"
     }
   ],
   "totals": {
-    "specimens": 10,
-    "meshInstances": 983,
-    "estimatedTriangles": 273216,
-    "mappedStructures": 68,
-    "structures": 68,
+    "specimens": 12,
+    "meshInstances": 1047,
+    "estimatedTriangles": 331646,
+    "mappedStructures": 90,
+    "structures": 90,
     "draftAssets": 0,
-    "draftSpecimens": 10
+    "draftSpecimens": 12
   }
 }
