@@ -1,11 +1,11 @@
 {
   "../../node_modules/three/examples/jsm/exporters/GLTFExporter.js": {
-    "file": "assets/GLTFExporter-DMXRT5rt.js",
+    "file": "assets/GLTFExporter-DTxVTKSX.js",
     "name": "GLTFExporter",
     "src": "../../node_modules/three/examples/jsm/exporters/GLTFExporter.js",
     "isDynamicEntry": true,
     "imports": [
-      "_ViewerPane-BBgPVuMn.js",
+      "_ViewerPane-DmWOuz29.js",
       "index.html"
     ]
   },
@@ -16,17 +16,17 @@
     "isDynamicEntry": true
   },
   "../../node_modules/three/examples/jsm/loaders/GLTFLoader.js": {
-    "file": "assets/GLTFLoader-AiH7bQRY.js",
+    "file": "assets/GLTFLoader-qLVj3QHN.js",
     "name": "GLTFLoader",
     "src": "../../node_modules/three/examples/jsm/loaders/GLTFLoader.js",
     "isDynamicEntry": true,
     "imports": [
-      "_ViewerPane-BBgPVuMn.js",
+      "_ViewerPane-DmWOuz29.js",
       "index.html"
     ]
   },
-  "_LabPage-Bz3q_GO1.js": {
-    "file": "assets/LabPage-Bz3q_GO1.js",
+  "_LabPage-DVvhNEk3.js": {
+    "file": "assets/LabPage-DVvhNEk3.js",
     "name": "LabPage",
     "isDynamicEntry": true,
     "imports": [
@@ -36,8 +36,8 @@
       "src/lab/ActionPotentialSimulator.tsx"
     ]
   },
-  "_ViewerPane-BBgPVuMn.js": {
-    "file": "assets/ViewerPane-BBgPVuMn.js",
+  "_ViewerPane-DmWOuz29.js": {
+    "file": "assets/ViewerPane-DmWOuz29.js",
     "name": "ViewerPane",
     "isDynamicEntry": true,
     "imports": [
@@ -50,33 +50,33 @@
     ]
   },
   "index.html": {
-    "file": "assets/index-DwDx6M08.js",
+    "file": "assets/index--1tzjZUs.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
     "dynamicImports": [
-      "_ViewerPane-BBgPVuMn.js",
+      "_ViewerPane-DmWOuz29.js",
       "src/pages/ComparePage.tsx",
       "src/pages/LearnPage.tsx",
-      "_LabPage-Bz3q_GO1.js",
+      "_LabPage-DVvhNEk3.js",
       "src/pages/AboutPage.tsx"
     ],
     "css": [
-      "assets/index-VWprwQ3t.css"
+      "assets/index-BhQL_qgP.css"
     ]
   },
   "src/lab/ActionPotentialSimulator.tsx": {
-    "file": "assets/ActionPotentialSimulator-1s7U9_4M.js",
+    "file": "assets/ActionPotentialSimulator-Fl55S1e4.js",
     "name": "ActionPotentialSimulator",
     "src": "src/lab/ActionPotentialSimulator.tsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_LabPage-Bz3q_GO1.js"
+      "_LabPage-DVvhNEk3.js"
     ]
   },
   "src/pages/AboutPage.tsx": {
-    "file": "assets/AboutPage-U_WcJnPx.js",
+    "file": "assets/AboutPage-JQXn6lei.js",
     "name": "AboutPage",
     "src": "src/pages/AboutPage.tsx",
     "isDynamicEntry": true,
@@ -85,7 +85,7 @@
     ]
   },
   "src/pages/ComparePage.tsx": {
-    "file": "assets/ComparePage-AXxyYABP.js",
+    "file": "assets/ComparePage-GSkm13a-.js",
     "name": "ComparePage",
     "src": "src/pages/ComparePage.tsx",
     "isDynamicEntry": true,
@@ -94,7 +94,7 @@
     ]
   },
   "src/pages/LearnPage.tsx": {
-    "file": "assets/LearnPage-BsHR7yWQ.js",
+    "file": "assets/LearnPage-CKSpkPMA.js",
     "name": "LearnPage",
     "src": "src/pages/LearnPage.tsx",
     "isDynamicEntry": true,
