@@ -72,7 +72,7 @@
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
       "attribution": "Cell Architecture Studio contributors — schematic cell illustration, CC BY 4.0. Not to scale; not a scientific reconstruction. Specimen: White blood cell (Homo sapiens).",
       "previewPath": "/previews/white-blood-cell.svg",
-      "meshInstances": 84,
+      "meshInstances": 78,
       "structureCount": 6,
       "mappedStructures": 6,
       "bounds": {
@@ -93,8 +93,8 @@
         1.349
       ],
       "canonicalDiameter": 2,
-      "estimatedTriangles": 21392,
-      "specHash": "ac7a8c6a5386738f438839c54965e318d506f54630469823d3be702025f54707",
+      "estimatedTriangles": 19280,
+      "specHash": "06ac830b9271962f671b5bef8d6f4c007f30e2771efbdbe66fe101be4392690d",
       "capabilities": {
         "mesh": true,
         "focus": true,
@@ -575,8 +575,8 @@
     {
       "specimenId": "white-blood-cell",
       "path": "/previews/white-blood-cell.svg",
-      "bytes": 34323,
-      "specHash": "ac7a8c6a5386738f438839c54965e318d506f54630469823d3be702025f54707"
+      "bytes": 31653,
+      "specHash": "06ac830b9271962f671b5bef8d6f4c007f30e2771efbdbe66fe101be4392690d"
     },
     {
       "specimenId": "neuron",
@@ -641,8 +641,8 @@
   ],
   "totals": {
     "specimens": 12,
-    "meshInstances": 1047,
-    "estimatedTriangles": 331646,
+    "meshInstances": 1041,
+    "estimatedTriangles": 329534,
     "mappedStructures": 90,
     "structures": 90,
     "draftAssets": 0,
